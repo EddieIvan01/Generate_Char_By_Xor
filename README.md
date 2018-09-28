@@ -1,0 +1,2 @@
+# Generate_Char_By_Xor
+CTF中过滤指定字符的webshell，由字符异或生成新字符
