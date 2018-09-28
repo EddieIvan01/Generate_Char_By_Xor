@@ -2,7 +2,7 @@
 
 **Usage**
 
-./xor.py [char] || [string]
+`./xor.py [char] || [string]`
 
 由笛卡尔积生成所有的排列组合
 
